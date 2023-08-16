@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 13,
+      "firstname": "shekar",
+      "lastname": "bandi",
+      "email": "shekar@gmail.com",
+      "mobile": 896217352,
+      "salary": 65000
+    },
+    {
+      "id": 14,
+      "firstname": "Raj",
+      "lastname": "Emmadi",
+      "email": "raj@gmail.com",
+      "mobile": 9618560637,
+      "salary": 45000
+    },
+    {
+      "id": 15,
+      "firstname": "Ramesh",
+      "lastname": "Reddy",
+      "email": "ramesh@gmail.com",
+      "mobile": 9989299418,
+      "salary": 34000
+    },
+    {
+      "id": 16,
+      "firstname": "shashi",
+      "lastname": "yadhav",
+      "email": "shashi@gmail.com",
+      "mobile": 7893569742,
+      "salary": 45000
+    },
+    {
+      "id": 17,
+      "firstname": "Rajashekar",
+      "lastname": "Emmadi",
+      "email": "raj@gmail.com",
+      "mobile": 961856037,
+      "salary": 35000
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
