@@ -1,0 +1,25 @@
+{
+  "registered": [
+    {
+      "firstName": "swamy",
+      "lastName": "siddala",
+      "email": "swamy@gmail.com",
+      "mobile": 8185077337,
+      "weight": 64,
+      "height": 1.67,
+      "bmi": 22.948115744558788,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Yearly",
+      "important": [
+        "Toxic Fat reduction",
+        "Healthier Digestive System",
+        "Fitness"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-08-24T18:30:00.000Z",
+      "id": 4
+    }
+  ]
+}
