@@ -1,14 +1,6 @@
-import { EmployeeDashboardComponent } from './../employee-dashboard/employee-dashboard.component';
-
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import{ map} from 'rxjs/operators';
-
-
-
-
-import { interval, Observable } from 'rxjs';
-
 
 
 @Injectable({
