@@ -5,15 +5,12 @@
 
     <h1 style="color:white">Angular CRUD</h1>
 <div class="d-flex">
-
-    <button type="button" (click)="clickAddEmployee()" data-toggle="modal" data-target="#exampleModal" class="btn btn-success">Add Employee</button>
+     <button type="button" (click)="clickAddEmployee()" data-toggle="modal" data-target="#exampleModal" class="btn btn-success">Add Employee</button>
 </div>
  </div>
 </nav>
-
 <table class="table mt-3">
-
-    <thead>
+ <thead>
 
         <tr>
             <th>Employeeid</th>
@@ -37,17 +34,11 @@
 <td>{{row.mobile}}</td>
 <td>{{row.salary}}</td>
 <td>
-    <button  type="button" (click)="onEdit(row)"  data-toggle="modal" data-target="#exampleModal" class="btn btn-info">Edit</button>
-    <button  (click)="deleteEmployees(row)"class="btn btn-danger mx-3">Delete</button>
-
-
-
+<button  type="button" (click)="onEdit(row)"  data-toggle="modal" data-target="#exampleModal" class="btn btn-info">Edit</button>
+<button  (click)="deleteEmployees(row)"class="btn btn-danger mx-3">Delete</button>
 </td>
 
-
-
-
-    </tr>
+</tr>
 
 
 </tbody>

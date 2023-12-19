@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { NgToastModule } from 'ng-angular-popup';
+
 
 @Component({
   selector: 'app-root',
