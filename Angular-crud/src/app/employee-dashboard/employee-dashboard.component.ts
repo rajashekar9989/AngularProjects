@@ -3,7 +3,6 @@ import { Component, Injectable, OnInit } from '@angular/core';
 import { FormBuilder,FormGroup,FormControl } from '@angular/forms';
 import { EmployeeModel } from './employee-dash board.model';
 
-import { interval, Observable } from 'rxjs';
 
 
 
